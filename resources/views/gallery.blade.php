@@ -42,28 +42,28 @@
   </script>
             <div class="swiper-wrapper align-items-center">
                 <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery"
-                        href="assets/img/gallery/gallery-1.jpg"><img src="assets/img/gallery/gallery-1.jpg"
+                        href="img/gallery/gallery1.jpg"><img src="{{ asset('img/gallery/gallery1.jpg') }}"
                             class="img-fluid" alt=""></a></div>
                 <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery"
-                        href="assets/img/gallery/gallery-2.jpg"><img src="assets/img/gallery/gallery-2.jpg"
+                        href="img/gallery/gallery2.jpg"><img src="{{ asset('img/gallery/gallery2.jpg') }}"
                             class="img-fluid" alt=""></a></div>
                 <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery"
-                        href="assets/img/gallery/gallery-3.jpg"><img src="assets/img/gallery/gallery-3.jpg"
+                        href="img/gallery/gallery3.jpg"><img src="{{ asset('img/gallery/gallery3.jpg') }}"
                             class="img-fluid" alt=""></a></div>
                 <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery"
-                        href="assets/img/gallery/gallery-4.jpg"><img src="assets/img/gallery/gallery-4.jpg"
+                        href="img/gallery/gallery4.png"><img src="{{ asset('img/gallery/gallery4.png') }}"
                             class="img-fluid" alt=""></a></div>
                 <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery"
-                        href="assets/img/gallery/gallery-5.jpg"><img src="assets/img/gallery/gallery-5.jpg"
+                        href="img/gallery/gallery5.jpg"><img src="{{ asset('img/gallery/gallery5.jpg') }}"
                             class="img-fluid" alt=""></a></div>
                 <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery"
-                        href="assets/img/gallery/gallery-6.jpg"><img src="assets/img/gallery/gallery-6.jpg"
+                        href="img/gallery/gallery6.jpg"><img src="{{ asset('img/gallery/gallery6.jpg') }}"
                             class="img-fluid" alt=""></a></div>
                 <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery"
-                        href="assets/img/gallery/gallery-7.jpg"><img src="assets/img/gallery/gallery-7.jpg"
+                        href="img/gallery/gallery7.jpg"><img src="{{ asset('img/gallery/gallery7.jpg') }}"
                             class="img-fluid" alt=""></a></div>
                 <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery"
-                        href="assets/img/gallery/gallery-8.jpg"><img src="assets/img/gallery/gallery-8.jpg"
+                        href="img/gallery/gallery8.jpg"><img src="{{ asset('img/gallery/gallery8.jpg') }}"
                             class="img-fluid" alt=""></a></div>
             </div>
             <div class="swiper-pagination"></div>

@@ -43,8 +43,8 @@
                 <div class="row gy-5">
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-1.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-1.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-1.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-1.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Paneer Roll</h4>
                         <p class="ingredients">
@@ -56,8 +56,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-2.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-2.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-2.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-2.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Egg Roll</h4>
                         <p class="ingredients">
@@ -69,8 +69,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-3.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-3.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-3.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-3.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Cheese Paneer Roll</h4>
                         <p class="ingredients">
@@ -82,8 +82,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-4.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-4.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-4.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-4.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Veg Takoyaki</h4>
                         <p class="ingredients">
@@ -95,8 +95,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-5.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-5.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-5.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-5.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Grilled Paneer Kabab</h4>
                         <p class="ingredients">
@@ -108,8 +108,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-6.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-6.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-6.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-6.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Pulav</h4>
                         <p class="ingredients">
@@ -133,8 +133,8 @@
                 <div class="row gy-5">
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-1.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-1.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-1.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-1.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Beef Korma</h4>
                         <p class="ingredients">
@@ -146,8 +146,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-2.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-2.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-2.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-2.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Bhuna Gosht</h4>
                         <p class="ingredients">
@@ -159,8 +159,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-3.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-3.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-3.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-3.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Chicken Lollipop</h4>
                         <p class="ingredients">
@@ -172,8 +172,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-4.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-4.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-4.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-4.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Chicken Roll</h4>
                         <p class="ingredients">
@@ -185,8 +185,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-5.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-5.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-5.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-5.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Cheese Chicken Roll</h4>
                         <p class="ingredients">
@@ -198,8 +198,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-6.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-6.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-6.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-6.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Biryani</h4>
                         <p class="ingredients">
@@ -223,8 +223,8 @@
                 <div class="row gy-5">
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-1.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-1.png" class="menu-img img-fluid"
+                        <a href="img/menu/chocolate.png" class="glightbox"><img
+                                src="{{ asset('img/menu/chocolate.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Chocolate cake</h4>
                         <p class="ingredients">
@@ -236,8 +236,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-2.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-2.png" class="menu-img img-fluid"
+                        <a href="img/menu/cheese.png" class="glightbox"><img
+                                src="{{ asset('img/menu/cheese.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Cheese Cake</h4>
                         <p class="ingredients">
@@ -249,8 +249,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-3.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-3.png" class="menu-img img-fluid"
+                        <a href="img/menu/carrot.png" class="glightbox"><img
+                                src="{{ asset('img/menu/carrot.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Carrot Halwa</h4>
                         <p class="ingredients">
@@ -262,8 +262,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-4.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-4.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-4.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-4.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Eos Luibusdam</h4>
                         <p class="ingredients">
@@ -275,8 +275,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-5.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-5.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-5.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-5.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Eos Luibusdam</h4>
                         <p class="ingredients">
@@ -288,8 +288,8 @@
                     </div><!-- Menu Item -->
 
                     <div class="col-lg-4 menu-item">
-                        <a href="assets/img/menu/menu-item-6.png" class="glightbox"><img
-                                src="assets/img/menu/menu-item-6.png" class="menu-img img-fluid"
+                        <a href="img/menu/menu-item-6.png" class="glightbox"><img
+                                src="{{ asset('img/menu/menu-item-6.png') }}" class="menu-img img-fluid"
                                 alt=""></a>
                         <h4>Laboriosam Direva</h4>
                         <p class="ingredients">
